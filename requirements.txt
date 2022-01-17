@@ -1,0 +1,5 @@
+opencv-contrib-python
+mediapipe
+pyqt5
+PyQt5Designer
+pyautogui
